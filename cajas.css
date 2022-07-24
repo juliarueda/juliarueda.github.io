@@ -121,9 +121,8 @@ footer {
 }
 
 #contenido {
-    height: 500px;
+	height: 500px;
 }
-
 
 h1{
 	height: 50px;
@@ -266,4 +265,3 @@ footer {
 }
 
 } /* fin @media -599px */
-

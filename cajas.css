@@ -121,19 +121,7 @@ footer {
 }
 
 #contenido {
-	display: flex;
-    flex-direction: row;
-    margin: 0;
-    padding: 10px;
-    height: auto;
-    width: auto;
-    flex-wrap: wrap;
-    overflow: hidden;
-    justify-content: center;
-    max-width: 1200px;
-	min-width: 300px;
-	margin-left: auto;
-    margin-right: auto;
+    height: 500px;
 }
 
 
